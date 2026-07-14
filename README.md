@@ -1,1 +1,1 @@
-# fastapi-on-azure-functions-6407
+# fastapi-on-azure-functions
